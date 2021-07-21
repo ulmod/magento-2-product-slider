@@ -19,6 +19,7 @@ With Magento 2 Product Slider, you can highlight any of your products at any pag
 
 <img src="https://www.ulmod.com/media/ulmod/product_content/umprods1-main.png">
 <img src="https://www.ulmod.com/media/ulmod/product_content/umprods1-widget.png">
+<img src="https://www.ulmod.com/media/ulmod/product_content/umprods1-admin.png">
 
 
 ## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod
