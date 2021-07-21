@@ -9,11 +9,11 @@ With Magento 2 Product Slider, you can highlight any of your products at any pag
 ## Key Features
 
 * Ability to create an unlimited number of "New," "Best Seller," "Most Viewed," "Sales," "Featured" and "Auto-related" products slider/grid
-* Display product slider at home, category, product, cart, checkout, CMS, and any other page 
-* Support up to 22 positions to display the product slider
-* Support 3 slick slider, owl carousel slider, and grid view
-* Support widgets and code insert to display product slider at any other pages and position
-* Configure and manage soldiers from the backend
+* Display product sliders at home, category, product, cart, checkout, CMS, and any other page 
+* Support widgets and code insert to display product sliders at any other pages and positions
+* Support up to 22 positions to display product sliders
+* Support slick slider, owl carousel slider, and grid view
+* Configure and manage sliders from the backend
 * Mobile-friendly
 * Support multiple-stores
 
