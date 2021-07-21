@@ -1,8 +1,8 @@
 # Magento 2 Product Slider Extension
 
-[Magento 2 Product Slider](https://www.ulmod.com/magento-2-product-slider-extension.html)  is a Magento 2 extension that allows you to create any number of sliders for new, sale, bestseller, most viewed, featured, and auto-related products.
+[Magento 2 Product Slider](https://www.ulmod.com/magento-2-product-slider-extension.html)  is a Magento 2 extension that allows you to create any number of sliders for new, sale, bestseller, most viewed, featured, auto-related products, and display at any page and position of your site
 
-With Magento 2 Product Slider, you can highlight any of your products on any page and position of your site.
+With Magento 2 Product Slider, you can highlight any of your products at any page and position of your site.
 
 <a href="https://www.ulmod.com/magento-2-product-slider-extension.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
